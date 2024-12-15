@@ -1,6 +1,9 @@
 # Flappy-Bird
 A complete Flappy Bird game failed to push the game files here due to heavy file you cantact if you like the project
 
+[Game development Angry bird unity by Brian Langay.pdf](https://github.com/user-attachments/files/18139138/Game.development.Angry.bird.unity.by.Brian.Langay.pdf)
+
+
 ![Screenshot 2024-12-02 115259](https://github.com/user-attachments/assets/797a0fdc-2985-4ffc-b680-2fde20dfa3fc)
 ![Screenshot 2024-12-02 120050](https://github.com/user-attachments/assets/ef052d29-c2cb-4205-80e6-ee71ee679745)
 ![Screenshot 2024-12-02 120304](https://github.com/user-attachments/assets/2c28df48-9f55-49c4-aed6-1cfbb7c3c02a)
